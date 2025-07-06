@@ -1,5 +1,5 @@
 
-# Excel-dashboard-project-
+# Coffee-Shop-Sales-Excel-dashboard-project
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 
 This project aims to create an interactive Excel dashboard. Utilizing Slicers, users can easily filter and analyze the data.
