@@ -1,3 +1,4 @@
+
 # Excel-dashboard-project-
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 
@@ -19,4 +20,4 @@ Customizable: The dashboard is highly customizable, allowing users to add or mod
 
 Usage
 To use the Excel dashboard, simply open the provided Excel file and interact with the Slicers to filter data as needed. The dashboard will automatically update based on the selected filters, providing real-time insights into different aspects of the business.
-
+![The Dashboard](https://github.com/user-attachments/assets/13cd2b18-b755-4313-bfc0-d3d0c895da13)
